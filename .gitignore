@@ -1,3 +1,9 @@
 Datasets
 model.pkl
 model.pkl
+**.h5
+Histories
+best_model.h5
+*.gz
+trainedModel
+Models
