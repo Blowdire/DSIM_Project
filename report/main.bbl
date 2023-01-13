@@ -19,225 +19,205 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
-    \entry{FEEL-IT}{online}{}
-      \name{author}{3}{}{%
-        {{hash=8fd2f3a22e37d84bb980f185b5a43a95}{%
-           family={Bianchi},
-           familyi={B\bibinitperiod},
-           given={Federico},
-           giveni={F\bibinitperiod}}}%
-        {{hash=40d7d88b7cdb334bdbfde2359140be4a}{%
-           family={Nozza},
-           familyi={N\bibinitperiod},
-           given={Debora},
-           giveni={D\bibinitperiod}}}%
-        {{hash=460909209014ce11714ba7d75523ebc8}{%
-           family={Hovy},
-           familyi={H\bibinitperiod},
-           given={Dirk},
-           giveni={D\bibinitperiod}}}%
+    \entry{CNNs}{online}{}
+      \name{author}{5}{}{%
+        {{hash=b88f40cd2de1355a96427ba0da84357e}{%
+           family={Ciresan},
+           familyi={C\bibinitperiod},
+           given={Dan\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=be71dea014b345d130231579ad7a5115}{%
+           family={Meier},
+           familyi={M\bibinitperiod},
+           given={Ueli},
+           giveni={U\bibinitperiod}}}%
+        {{hash=296aa51baf6b5dce74c13806342b5bbe}{%
+           family={Masci},
+           familyi={M\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5299cade0838ea444eefc4a9e30510ab}{%
+           family={Gambardella},
+           familyi={G\bibinitperiod},
+           given={Luca\bibnamedelima M},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=c3a004dc2b8b6fb4dd79c5b8c1469da7}{%
+           family={Schmidhuber},
+           familyi={S\bibinitperiod},
+           given={Jurgen},
+           giveni={J\bibinitperiod}}}%
       }
-      \strng{namehash}{d79e71c11b06a19ac37d3b80f7913486}
-      \strng{fullhash}{d79e71c11b06a19ac37d3b80f7913486}
-      \strng{bibnamehash}{d79e71c11b06a19ac37d3b80f7913486}
-      \strng{authorbibnamehash}{d79e71c11b06a19ac37d3b80f7913486}
-      \strng{authornamehash}{d79e71c11b06a19ac37d3b80f7913486}
-      \strng{authorfullhash}{d79e71c11b06a19ac37d3b80f7913486}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \strng{namehash}{ff89c19f36882f33b4c13719e7025641}
+      \strng{fullhash}{32cd9514dfad348c31118cfab0d06c16}
+      \strng{bibnamehash}{ff89c19f36882f33b4c13719e7025641}
+      \strng{authorbibnamehash}{ff89c19f36882f33b4c13719e7025641}
+      \strng{authornamehash}{ff89c19f36882f33b4c13719e7025641}
+      \strng{authorfullhash}{32cd9514dfad348c31118cfab0d06c16}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{FEEL-IT: Emotion and Sentiment Classification for the Italian Language}
-      \true{nocite}
+      \field{title}{Flexible, High Performance Convolutional Neural Networks for Image Classification}
       \verb{urlraw}
-      \verb https://github.com/MilaNLProc/feel-it
+      \verb https://people.idsia.ch/~juergen/ijcai2011.pdf
       \endverb
       \verb{url}
-      \verb https://github.com/MilaNLProc/feel-it
+      \verb https://people.idsia.ch/~juergen/ijcai2011.pdf
       \endverb
     \endentry
-    \entry{BSI}{online}{}
-      \name{author}{1}{}{%
-        {{hash=44ea1b356dcd7bfe0ece54601fb6bcec}{%
-           family={BSI},
-           familyi={B\bibinitperiod}}}%
-      }
-      \strng{namehash}{44ea1b356dcd7bfe0ece54601fb6bcec}
-      \strng{fullhash}{44ea1b356dcd7bfe0ece54601fb6bcec}
-      \strng{bibnamehash}{44ea1b356dcd7bfe0ece54601fb6bcec}
-      \strng{authorbibnamehash}{44ea1b356dcd7bfe0ece54601fb6bcec}
-      \strng{authornamehash}{44ea1b356dcd7bfe0ece54601fb6bcec}
-      \strng{authorfullhash}{44ea1b356dcd7bfe0ece54601fb6bcec}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{New Smart Working Code of Practice announced}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://www.gov.uk/government/news/new-smart-working-code-of-practice-announced
-      \endverb
-      \verb{url}
-      \verb https://www.gov.uk/government/news/new-smart-working-code-of-practice-announced
-      \endverb
-    \endentry
-    \entry{Forbes}{online}{}
-      \name{author}{1}{}{%
-        {{hash=b1e9b36364c855fad4161cfb10d45735}{%
-           family={Forbes},
-           familyi={F\bibinitperiod}}}%
-      }
-      \strng{namehash}{b1e9b36364c855fad4161cfb10d45735}
-      \strng{fullhash}{b1e9b36364c855fad4161cfb10d45735}
-      \strng{bibnamehash}{b1e9b36364c855fad4161cfb10d45735}
-      \strng{authorbibnamehash}{b1e9b36364c855fad4161cfb10d45735}
-      \strng{authornamehash}{b1e9b36364c855fad4161cfb10d45735}
-      \strng{authorfullhash}{b1e9b36364c855fad4161cfb10d45735}
+    \entry{dataset3}{online}{}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Working From Home: VPN Use Reveals Longer Hours And May Hide Privacy Threat}
-      \true{nocite}
+      \field{title}{Fast Food Classification Dataset - V2}
       \verb{urlraw}
-      \verb https://www.forbes.com/sites/zakdoffman/2020/03/24/coronavirus-work-from-home-longer-hours-more-distractions-and-this-surprising-privacy-threat/?sh=5eb2527c7363
+      \verb https://www.kaggle.com/datasets/utkarshsaxenadn/fast-food-classification-dataset
       \endverb
       \verb{url}
-      \verb https://www.forbes.com/sites/zakdoffman/2020/03/24/coronavirus-work-from-home-longer-hours-more-distractions-and-this-surprising-privacy-threat/?sh=5eb2527c7363
+      \verb https://www.kaggle.com/datasets/utkarshsaxenadn/fast-food-classification-dataset
       \endverb
     \endentry
-    \entry{MIUR}{online}{}
+    \entry{spectrogram}{online}{}
       \name{author}{1}{}{%
-        {{hash=5a142230c458dcf8b7d3da19045641fa}{%
-           family={Merito},
-           familyi={M\bibinitperiod},
-           given={Ministero},
-           giveni={M\bibinitperiod},
-           prefix={dell'Istruzione\bibnamedelimb e\bibnamedelima del},
-           prefixi={d\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=03b5b3d835e193838e9817e9770e18d9}{%
+           family={III},
+           familyi={I\bibinitperiod},
+           given={Julius\bibnamedelimb O.\bibnamedelimi Smith},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
       }
-      \strng{namehash}{5a142230c458dcf8b7d3da19045641fa}
-      \strng{fullhash}{5a142230c458dcf8b7d3da19045641fa}
-      \strng{bibnamehash}{5a142230c458dcf8b7d3da19045641fa}
-      \strng{authorbibnamehash}{5a142230c458dcf8b7d3da19045641fa}
-      \strng{authornamehash}{5a142230c458dcf8b7d3da19045641fa}
-      \strng{authorfullhash}{5a142230c458dcf8b7d3da19045641fa}
+      \strng{namehash}{03b5b3d835e193838e9817e9770e18d9}
+      \strng{fullhash}{03b5b3d835e193838e9817e9770e18d9}
+      \strng{bibnamehash}{03b5b3d835e193838e9817e9770e18d9}
+      \strng{authorbibnamehash}{03b5b3d835e193838e9817e9770e18d9}
+      \strng{authornamehash}{03b5b3d835e193838e9817e9770e18d9}
+      \strng{authorfullhash}{03b5b3d835e193838e9817e9770e18d9}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mathematics of the Discrete Fourier Transform (DFT), with Audio Applications --- Second Edition}
+      \verb{urlraw}
+      \verb https://ccrma.stanford.edu/~jos/mdft/Spectrograms.html
+      \endverb
+      \verb{url}
+      \verb https://ccrma.stanford.edu/~jos/mdft/Spectrograms.html
+      \endverb
+    \endentry
+    \entry{dataset2}{online}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeltitlesource}{title}
+      \field{title}{Intel Image Classification}
+      \verb{urlraw}
+      \verb https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+      \endverb
+      \verb{url}
+      \verb https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+      \endverb
+    \endentry
+    \entry{MFCC}{online}{}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Lavoro agile}
-      \true{nocite}
+      \field{title}{Mel-frequency cepstrum}
       \verb{urlraw}
-      \verb https://miur.gov.it/lavoro-agile
+      \verb https://en.wikipedia.org/wiki/Mel-frequency_cepstrum
       \endverb
       \verb{url}
-      \verb https://miur.gov.it/lavoro-agile
+      \verb https://en.wikipedia.org/wiki/Mel-frequency_cepstrum
       \endverb
     \endentry
-    \entry{Modularity}{online}{}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{labeltitlesource}{title}
-      \field{title}{Modularity (networks)}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://en.wikipedia.org/wiki/Modularity_(networks)
-      \endverb
-      \verb{url}
-      \verb https://en.wikipedia.org/wiki/Modularity_(networks)
-      \endverb
-    \endentry
-    \entry{NetworkX}{online}{}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{labeltitlesource}{title}
-      \field{title}{NetworkX}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://networkx.org/
-      \endverb
-      \verb{url}
-      \verb https://networkx.org/
-      \endverb
-    \endentry
-    \entry{Rai}{online}{}
-      \name{author}{1}{}{%
-        {{hash=fc4c7e86f42dde88fd6f1dc7371a2dfc}{%
-           family={News},
-           familyi={N\bibinitperiod},
-           given={Rai},
-           giveni={R\bibinitperiod}}}%
+    \entry{VGG16}{online}{}
+      \name{author}{2}{}{%
+        {{hash=9d16b7284df92c9adaee86c37ab992df}{%
+           family={Simonyan},
+           familyi={S\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c72fc39e94030f67717052309266a44d}{%
+           family={Zisserman},
+           familyi={Z\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
       }
-      \strng{namehash}{fc4c7e86f42dde88fd6f1dc7371a2dfc}
-      \strng{fullhash}{fc4c7e86f42dde88fd6f1dc7371a2dfc}
-      \strng{bibnamehash}{fc4c7e86f42dde88fd6f1dc7371a2dfc}
-      \strng{authorbibnamehash}{fc4c7e86f42dde88fd6f1dc7371a2dfc}
-      \strng{authornamehash}{fc4c7e86f42dde88fd6f1dc7371a2dfc}
-      \strng{authorfullhash}{fc4c7e86f42dde88fd6f1dc7371a2dfc}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \strng{namehash}{25d2f3c4577a6632d37f0126cc781232}
+      \strng{fullhash}{25d2f3c4577a6632d37f0126cc781232}
+      \strng{bibnamehash}{25d2f3c4577a6632d37f0126cc781232}
+      \strng{authorbibnamehash}{25d2f3c4577a6632d37f0126cc781232}
+      \strng{authornamehash}{25d2f3c4577a6632d37f0126cc781232}
+      \strng{authorfullhash}{25d2f3c4577a6632d37f0126cc781232}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{In Italia lo smart working è al palo: solo 2,9 milioni lavorano da casa}
-      \true{nocite}
+      \field{title}{VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION}
       \verb{urlraw}
-      \verb https://www.rainews.it/articoli/2022/07/gli-italiani-tornano-a-lavorare-in-ufficio-negli-altri-paesi-europei-sale-il-numero--c0201a04-5af8-40b4-b041-dbf89f4eebdc.html
+      \verb https://arxiv.org/pdf/1409.1556.pdf
       \endverb
       \verb{url}
-      \verb https://www.rainews.it/articoli/2022/07/gli-italiani-tornano-a-lavorare-in-ufficio-negli-altri-paesi-europei-sale-il-numero--c0201a04-5af8-40b4-b041-dbf89f4eebdc.html
+      \verb https://arxiv.org/pdf/1409.1556.pdf
       \endverb
     \endentry
-    \entry{Osservatori}{online}{}
+    \entry{PyNanoflann}{online}{}
       \name{author}{1}{}{%
-        {{hash=3b45b5b0fd3dd391d5ec99cf9268059e}{%
-           family={Osservatori},
-           familyi={O\bibinitperiod}}}%
+        {{hash=27e98c69d82f228f1e75b9472ed588c3}{%
+           family={u1234x1234},
+           familyi={u\bibinitperiod}}}%
       }
-      \strng{namehash}{3b45b5b0fd3dd391d5ec99cf9268059e}
-      \strng{fullhash}{3b45b5b0fd3dd391d5ec99cf9268059e}
-      \strng{bibnamehash}{3b45b5b0fd3dd391d5ec99cf9268059e}
-      \strng{authorbibnamehash}{3b45b5b0fd3dd391d5ec99cf9268059e}
-      \strng{authornamehash}{3b45b5b0fd3dd391d5ec99cf9268059e}
-      \strng{authorfullhash}{3b45b5b0fd3dd391d5ec99cf9268059e}
-      \field{sortinit}{O}
-      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \strng{namehash}{27e98c69d82f228f1e75b9472ed588c3}
+      \strng{fullhash}{27e98c69d82f228f1e75b9472ed588c3}
+      \strng{bibnamehash}{27e98c69d82f228f1e75b9472ed588c3}
+      \strng{authorbibnamehash}{27e98c69d82f228f1e75b9472ed588c3}
+      \strng{authornamehash}{27e98c69d82f228f1e75b9472ed588c3}
+      \strng{authorfullhash}{27e98c69d82f228f1e75b9472ed588c3}
+      \field{sortinit}{u}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{SMART WORKING - Il lavoro agile dalla teoria alla pratica}
-      \true{nocite}
+      \field{title}{pynanoflann}
       \verb{urlraw}
-      \verb https://blog.osservatori.net/it_it/smart-working-cos-e-come-funziona-in-italia
+      \verb https://github.com/u1234x1234/pynanoflann
       \endverb
       \verb{url}
-      \verb https://blog.osservatori.net/it_it/smart-working-cos-e-come-funziona-in-italia
+      \verb https://github.com/u1234x1234/pynanoflann
       \endverb
     \endentry
-    \entry{Gazzetta}{online}{}
+    \entry{Kdtree}{online}{}
       \name{author}{1}{}{%
-        {{hash=afe06da4c6583d07af9f3ae3b5ab2aee}{%
-           family={Ufficiale},
+        {{hash=e88e1cc0ecd34ac310478d46268e5835}{%
+           family={University},
            familyi={U\bibinitperiod},
-           given={Gazzetta},
-           giveni={G\bibinitperiod}}}%
+           given={Andrew\bibnamedelimb W.\bibnamedelimi Moore\bibnamedelimb Carnegie\bibnamedelima Mellon},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
       }
-      \strng{namehash}{afe06da4c6583d07af9f3ae3b5ab2aee}
-      \strng{fullhash}{afe06da4c6583d07af9f3ae3b5ab2aee}
-      \strng{bibnamehash}{afe06da4c6583d07af9f3ae3b5ab2aee}
-      \strng{authorbibnamehash}{afe06da4c6583d07af9f3ae3b5ab2aee}
-      \strng{authornamehash}{afe06da4c6583d07af9f3ae3b5ab2aee}
-      \strng{authorfullhash}{afe06da4c6583d07af9f3ae3b5ab2aee}
+      \strng{namehash}{e88e1cc0ecd34ac310478d46268e5835}
+      \strng{fullhash}{e88e1cc0ecd34ac310478d46268e5835}
+      \strng{bibnamehash}{e88e1cc0ecd34ac310478d46268e5835}
+      \strng{authorbibnamehash}{e88e1cc0ecd34ac310478d46268e5835}
+      \strng{authornamehash}{e88e1cc0ecd34ac310478d46268e5835}
+      \strng{authorfullhash}{e88e1cc0ecd34ac310478d46268e5835}
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Legge 22 maggio 2017, n. 81}
-      \true{nocite}
+      \field{title}{An into ductory tutorial on kd-trees}
       \verb{urlraw}
-      \verb https://www.gazzettaufficiale.it/eli/id/2017/06/13/17G00096/sg
+      \verb https://www.ri.cmu.edu/pub_files/pub1/moore_andrew_1991_1/moore_andrew_1991_1.pdf
       \endverb
       \verb{url}
-      \verb https://www.gazzettaufficiale.it/eli/id/2017/06/13/17G00096/sg
+      \verb https://www.ri.cmu.edu/pub_files/pub1/moore_andrew_1991_1/moore_andrew_1991_1.pdf
+      \endverb
+    \endentry
+    \entry{dataset1}{online}{}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labeltitlesource}{title}
+      \field{title}{UrbanSound8K}
+      \verb{urlraw}
+      \verb https://www.kaggle.com/datasets/chrisfilo/urbansound8k
+      \endverb
+      \verb{url}
+      \verb https://www.kaggle.com/datasets/chrisfilo/urbansound8k
       \endverb
     \endentry
   \enddatalist

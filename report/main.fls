@@ -886,6 +886,13 @@ INPUT .\images\confmat_sound_mlp.png
 INPUT .\images\confmat_sound_mlp.png
 INPUT .\images\confmat_sound_mlp.png
 INPUT .\images\confmat_sound_mlp.png
+INPUT .\images\confmat_cnn.png
+INPUT .\images\confmat_cnn.png
+INPUT images\confmat_cnn.png
+INPUT .\images\confmat_cnn.png
+INPUT .\images\confmat_cnn.png
+INPUT .\images\confmat_cnn.png
+INPUT .\images\confmat_cnn.png
 INPUT .\images\confmat_vgg16.png
 INPUT .\images\confmat_vgg16.png
 INPUT images\confmat_vgg16.png
@@ -893,13 +900,13 @@ INPUT .\images\confmat_vgg16.png
 INPUT .\images\confmat_vgg16.png
 INPUT .\images\confmat_vgg16.png
 INPUT .\images\confmat_vgg16.png
-INPUT .\images\tweetxday.png
-INPUT .\images\tweetxday.png
-INPUT images\tweetxday.png
-INPUT .\images\tweetxday.png
-INPUT .\images\tweetxday.png
-INPUT .\images\tweetxday.png
-INPUT .\images\tweetxday.png
+INPUT .\images\vgg16-architecture.width-1200.jpg
+INPUT .\images\vgg16-architecture.width-1200.jpg
+INPUT images\vgg16-architecture.width-1200.jpg
+INPUT .\images\vgg16-architecture.width-1200.jpg
+INPUT .\images\vgg16-architecture.width-1200.jpg
+INPUT .\images\vgg16-architecture.width-1200.jpg
+INPUT .\images\vgg16-architecture.width-1200.jpg
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplrc7t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplri7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm

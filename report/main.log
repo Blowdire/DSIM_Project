@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2022.1.10)  12 JAN 2023 15:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2022.1.10)  13 JAN 2023 17:41
 entering extended mode
 **f:/universita/DataScience/DigitalSigalAndImageMan/Progetto/DSIM_Project/report/main.tex
 (f:/universita/DataScience/DigitalSigalAndImageMan/Progetto/DSIM_Project/report/main.tex
@@ -728,114 +728,106 @@ Underfull \hbox (badness 6691) in paragraph at lines 15--15
  [][] [][]\OT1/ppl/m/n/12.045 Support Vec-tor 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+ [][] [][]\OT1/ppl/m/n/12.045 Convolutional 
+ []
+
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
+ [1{C:/Users/Ruben/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
+
+]
 Underfull \hbox (badness 2310) in paragraph at lines 70--71
 \OT1/ppl/m/n/12.045 squa-red va-lues of the au-dio $\OML/cmm/m/it/12 E \OT1/cmr/m/n/12 =
  []
 
-[1{C:/Users/Ruben/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
-
-
-]
-
-LaTeX Warning: Citation 'spectogram' on page 2 undefined on input line 72.
-
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12.045> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 81.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 80.
 
-Underfull \hbox (badness 1400) in paragraph at lines 84--86
+Underfull \hbox (badness 1400) in paragraph at lines 83--85
 []\OT1/ppl/m/n/12.045 For the trai-ning of the Sup-port Vec-tor
  []
 
-LaTeX Font Info:    Calculating math sizes for size <9.03374> on input line 91.
-<./images/confmat_soundClassification.png, id=98, 308.5929pt x 312.2064pt>
+LaTeX Font Info:    Calculating math sizes for size <9.03374> on input line 90.
+<./images/confmat_soundClassification.png, id=137, 308.5929pt x 312.2064pt>
 File: ./images/confmat_soundClassification.png Graphic file (type png)
 <use ./images/confmat_soundClassification.png>
-Package pdftex.def Info: ./images/confmat_soundClassification.png  used on input line 109.
+Package pdftex.def Info: ./images/confmat_soundClassification.png  used on input line 108.
 (pdftex.def)             Requested size: 231.44409pt x 234.15422pt.
 [2 <./images/confmat_soundClassification.png>]
-Underfull \hbox (badness 3396) in paragraph at lines 120--121
+Underfull \hbox (badness 3396) in paragraph at lines 123--124
 \OT1/ppl/m/n/12.045 ba-bi-li-ty of dro-pout of 0.2 to add
  []
 
-<./images/confmat_sound_mlp.png, id=114, 308.5929pt x 312.2064pt>
+<./images/confmat_sound_mlp.png, id=155, 308.5929pt x 312.2064pt>
 File: ./images/confmat_sound_mlp.png Graphic file (type png)
 <use ./images/confmat_sound_mlp.png>
-Package pdftex.def Info: ./images/confmat_sound_mlp.png  used on input line 147.
+Package pdftex.def Info: ./images/confmat_sound_mlp.png  used on input line 150.
 (pdftex.def)             Requested size: 231.44409pt x 234.15422pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-LaTeX Warning: Citation 'CNNs' on page 3 undefined on input line 165.
-
-[3 <./images/confmat_sound_mlp.png>]
-Underfull \hbox (badness 4967) in paragraph at lines 181--182
+ [3 <./images/confmat_sound_mlp.png>]
+Underfull \hbox (badness 4967) in paragraph at lines 185--186
 \OT1/ppl/m/n/12.045 256 neu-rons with Re-LU ac-ti-va-tion
  []
 
 
-Underfull \hbox (badness 3884) in paragraph at lines 182--183
+Underfull \hbox (badness 3884) in paragraph at lines 186--187
 \OT1/ppl/m/n/12.045 with pro-ba-bi-li-ty of 0.1 to pre-vent
  []
 
-<./images/confmat_vgg16.png, id=122, 308.5929pt x 312.2064pt>
-File: ./images/confmat_vgg16.png Graphic file (type png)
-<use ./images/confmat_vgg16.png>
-Package pdftex.def Info: ./images/confmat_vgg16.png  used on input line 210.
+<./images/confmat_cnn.png, id=165, 308.5929pt x 312.2064pt>
+File: ./images/confmat_cnn.png Graphic file (type png)
+<use ./images/confmat_cnn.png>
+Package pdftex.def Info: ./images/confmat_cnn.png  used on input line 209.
 (pdftex.def)             Requested size: 231.44409pt x 234.15422pt.
-<./images/tweetxday.png, id=123, 146.5475pt x 193.22188pt>
-File: ./images/tweetxday.png Graphic file (type png)
-<use ./images/tweetxday.png>
-Package pdftex.def Info: ./images/tweetxday.png  used on input line 216.
-(pdftex.def)             Requested size: 146.54712pt x 193.22139pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-Underfull \hbox (badness 1466) in paragraph at lines 244--244
-\OT1/ppl/m/n/12.045 com / sites / zakdoman / 2020 / 03 /
+<./images/confmat_vgg16.png, id=174, 308.5929pt x 312.2064pt>
+File: ./images/confmat_vgg16.png Graphic file (type png)
+<use ./images/confmat_vgg16.png>
+Package pdftex.def Info: ./images/confmat_vgg16.png  used on input line 235.
+(pdftex.def)             Requested size: 231.44409pt x 234.15422pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./images/confmat_cnn.png> <./images/confmat_vgg16.png>]
+<./images/vgg16-architecture.width-1200.jpg, id=186, 1188.44pt x 320.19624pt>
+File: ./images/vgg16-architecture.width-1200.jpg Graphic file (type jpg)
+<use ./images/vgg16-architecture.width-1200.jpg>
+Package pdftex.def Info: ./images/vgg16-architecture.width-1200.jpg  used on input line 262.
+(pdftex.def)             Requested size: 237.68379pt x 64.0381pt.
+ [6 <./images/vgg16-architecture.width-1200.jpg>]
+Underfull \hbox (badness 2452) in paragraph at lines 294--294
+\OT1/ppl/m/it/12.045 VE-RY DEEP CON-VO-LU-TIO-NAL NET-
  []
 
-
-Underfull \hbox (badness 2158) in paragraph at lines 244--244
-[]\OT1/ppl/m/it/12.045 Modularity (net-works)\OT1/ppl/m/n/12.045 . \OT1/ppl/m/sc/12.045 url\OT1/ppl/m/n/12.045 : []$https : / /
- []
-
-[5 <./images/confmat_vgg16.png> <./images/tweetxday.png>] [6
-
-] (main.aux)
-
-LaTeX Warning: There were undefined references.
-
+[7] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 13DFE1E91D54345F42F98A233A45B4D5;2225.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: 17D1A7DE13BF33995AAC9CAE451247A1;3140.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19132 strings out of 479321
- 328906 string characters out of 2866501
- 1056244 words of memory out of 3000000
- 36290 multiletter control sequences out of 15000+600000
+ 19156 strings out of 479321
+ 329447 string characters out of 2866501
+ 1057360 words of memory out of 3000000
+ 36301 multiletter control sequences out of 15000+600000
  450356 words of font info for 134 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,10n,74p,1228b,1391s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,10n,74p,1228b,1413s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on main.pdf (6 pages, 211028 bytes).
+Output written on main.pdf (7 pages, 276952 bytes).
 PDF statistics:
- 236 PDF objects out of 1000 (max. 8388607)
- 41 named destinations out of 1000 (max. 500000)
- 149 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 287 PDF objects out of 1000 (max. 8388607)
+ 52 named destinations out of 1000 (max. 500000)
+ 210 words of extra memory for PDF output out of 10000 (max. 10000000)
 

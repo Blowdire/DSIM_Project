@@ -7,3 +7,5 @@ best_model.h5
 *.gz
 trainedModel
 Models
+*.pkl
+*.bin

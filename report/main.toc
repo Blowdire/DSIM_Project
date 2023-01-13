@@ -8,28 +8,42 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2}Preprocessing}{1}{subsection.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3}Feature extraction}{1}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.3}Feature extraction}{2}{subsection.1.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.4}Classification}{2}{subsection.1.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.4.1}Support Vector Machines}{2}{subsubsection.1.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.4.2}Multi Layer Perceptron}{2}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.2}Convolutional Neural Network}{3}{subsubsection.1.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Image classification}{3}{section.2}%
+\contentsline {subsection}{\numberline {1.5}Evaluation}{3}{subsection.1.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Dataset}{3}{subsection.2.1}%
+\contentsline {section}{\numberline {2}Image classification}{4}{section.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Convolutional Neural Networks}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.1}Dataset}{4}{subsection.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Convolutional Neural Networks}{4}{subsection.2.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.3}Custom CNN}{4}{subsection.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4}Pretrained CNN}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.4}Pretrained CNN}{5}{subsection.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5}Evaluation}{5}{subsection.2.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3}Image retrieval}{5}{section.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Dataset}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.1}Dataset}{6}{subsection.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Third pooling layer}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.2}Feature extraction}{6}{subsection.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Last pooling layer}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.3}Retrieval}{6}{subsection.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}Performance evaluation}{6}{subsection.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Conclusions}{6}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Audio classification}{6}{subsection.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Image classificaiton}{7}{subsection.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Image retrieval}{7}{subsection.4.3}%
